@@ -1,1 +1,1 @@
-0x01-git folder readme
+Starting to code today,so cool
